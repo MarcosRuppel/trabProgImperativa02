@@ -1,0 +1,13 @@
+5;Another Brick in the Wall Pt. 2;Pink Floyd;The Wall;1979
+3;Roundabout;Yes;Fragile (Deluxe Edition);1971
+1;In the Name of God;Dream Theater;Train of Thought;2003
+9;Schism;TOOL,Lateralus;2001
+6;The Court of The Crimson King;King Crimson;In The Court of The Crimson King;1969
+7;Sirius;The Alan Parsons Project;Eye In The Sky (Expanded Edition);1982
+2;Stairway to Heaven;Led Zeppelin;Led Zeppelin IV;1971
+4;Space Oddity;David Bowie;David Bowie (aka Space Oddity);1969
+8;Renegade;Styx;Pieces of Eight;1978
+10;Limelight;Rush;Moving Pictures;1981
+11;November Rain;Guns N Roses;Use Your Illusion I;1991
+15;Jet City Woman;Queensryche;Empire - 20th Anniversary Edition;1990
+19;Tears of the Dragon;Bruce Dickinson;Balls To Picasso;1994
