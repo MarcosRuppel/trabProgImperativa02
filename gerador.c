@@ -13,7 +13,7 @@ Nodo* lerArquivoTexto(const char* nomeArquivo) {
     Nodo* lista = NULL;
     Musica musica;
 
-    while (fscanf(arquivo, "%d;%49[^;];%49[^;];%49[^;];%d\n",
+    while (fscanf(arquivo, "%d;%[^;];%[^;];%[^;];%d\n",
                   &musica.chave, musica.titulo, musica.artista, musica.album, &musica.ano) == 5) {
         armazenarDadosHeap(&lista, musica);
     }

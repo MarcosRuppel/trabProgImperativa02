@@ -1,13 +1,20 @@
-5;Another Brick in the Wall Pt. 2;Pink Floyd;The Wall;1979
-3;Roundabout;Yes;Fragile (Deluxe Edition);1971
-1;In the Name of God;Dream Theater;Train of Thought;2003
-9;Schism;TOOL,Lateralus;2001
-6;The Court of The Crimson King;King Crimson;In The Court of The Crimson King;1969
-7;Sirius;The Alan Parsons Project;Eye In The Sky (Expanded Edition);1982
-2;Stairway to Heaven;Led Zeppelin;Led Zeppelin IV;1971
-4;Space Oddity;David Bowie;David Bowie (aka Space Oddity);1969
-8;Renegade;Styx;Pieces of Eight;1978
-10;Limelight;Rush;Moving Pictures;1981
-11;November Rain;Guns N Roses;Use Your Illusion I;1991
-15;Jet City Woman;Queensryche;Empire - 20th Anniversary Edition;1990
-19;Tears of the Dragon;Bruce Dickinson;Balls To Picasso;1994
+005;Another Brick in the Wall Pt. 2;Pink Floyd;The Wall;1979
+018;Mr. Torture;Helloween;The Dark Ride;2000
+003;Roundabout;Yes;Fragile (Deluxe Edition);1971
+015;Jet City Woman;Queensryche;Empire - 20th Anniversary Edition;1990
+009;Schism;TOOL;Lateralus;2001
+007;Sirius;The Alan Parsons Project;Eye In The Sky (Expanded Edition);1982
+001;In the Name of God;Dream Theater;Train of Thought;2003
+008;Renegade;Styx;Pieces of Eight;1978
+020;I Want Out;Helloween;Keeper of the Seven Keys Pt2;1988
+010;Limelight;Rush;Moving Pictures;1981
+011;November Rain;Guns N Roses;Use Your Illusion I;1991
+019;Tears of the Dragon;Bruce Dickinson;Balls To Picasso;1994
+006;The Court of The Crimson King;King Crimson;In The Court of The Crimson King;1969
+016;Knights of Cydonia;Muse;Black Holes and Revelations;2006
+002;Stairway to Heaven;Led Zeppelin;Led Zeppelin IV;1971
+004;Space Oddity;David Bowie;David Bowie (aka Space Oddity);1969
+017;Nothing Else Matters;Metallica;Metallica;1991
+012;Pull Me Under;Dream Theater;Images and Words;1992
+014;Fear of the Dark;Iron Maiden;Fear of the Dark;1992
+013;Call of the Void;Devin Townsend;Call of the Void;2022

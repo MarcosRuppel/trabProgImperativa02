@@ -164,7 +164,7 @@ void realizarOperacoes(Nodo** lista) {
         printf("1. Inserir musica no catalogo\n");
         printf("2. Remover musica do catalogo\n");
         printf("3. Buscar musica no catalogo\n");
-        printf("4. Salvar no arquivo binario\n");
+        printf("4. Salvar alteracoes no arquivo binario\n");
         printf("0. Encerrar\n");
 
         printf("\nEscolha uma opcao: ");
@@ -173,7 +173,7 @@ void realizarOperacoes(Nodo** lista) {
         switch (opcao) {
             case 1: {
                 Musica novoDado;
-                printf("Digite a chave do novo dado: ");
+                printf("Digite a chave da nova musica: ");
                 scanf("%d", &novoDado.chave);
                 getchar();
                 printf("Digite o titulo: ");
@@ -192,14 +192,14 @@ void realizarOperacoes(Nodo** lista) {
             }
             case 2: {
                 int chaveRemover;
-                printf("\nDigite a chave do dado a ser removido: ");
+                printf("\nDigite a chave da musica a ser removida: ");
                 scanf("%d", &chaveRemover);
                 removerDados(lista, chaveRemover);
                 break;
             }
             case 3: {
                 int chaveBuscar;
-                printf("\nDigite a chave do dado a ser buscado: ");
+                printf("\nDigite a chave da musica a ser buscada: ");
                 scanf("%d", &chaveBuscar);
                 exibirDados(*lista, chaveBuscar);
                 break;
