@@ -1,6 +1,6 @@
 # trabProgImperativa02
 Trabalho 2 da disciplina de Programação Imperativa - BCC / PUCPR 2023
-Alunos: Marcos Paulo Ruppel e Paulo Henrique Perin
+Alunos: Marcos Paulo Ruppel e Paulo Henrique Perin.
 Bacharelado em Ciência da Computação - PUCPR - 2023
 
 Programação Imperativa – Trabalho 2
